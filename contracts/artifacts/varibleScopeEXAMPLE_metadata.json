@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getPrivateVar",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/varibleScope.sol": "varibleScopeEXAMPLE"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/varibleScope.sol": {
+			"keccak256": "0x5e5334288668ca6004bc450eceb71da0216c9ae27ef1dca5fe7bce3528406c01",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://da9f12462a7c9c4f932b718c798543c4c8ccece43b628f59bb5639de846e1515",
+				"dweb:/ipfs/QmV4RZz8roYzwmMyWFNTp3H9BFKRSwisbe4FXwbYcy2FHN"
+			]
+		}
+	},
+	"version": 1
+}
