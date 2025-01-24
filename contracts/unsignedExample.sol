@@ -5,15 +5,16 @@ pragma solidity ^0.8.0;
 
 contract UnsignedExample{
 
-  uint public  defaultUnit=100;
+  uint public  defaultUnit=65535;
 
-    uint public  smallUnit=255;
+    uint8 public  smallUnit=26;
 
-      uint public  mediumUnit=65535;
+      uint16 public  mediumUnit=65535;
 
 
-        function add(uint a, uint b) public  pure   returns (uint){
-            return   a+b;
+
+        function add(uint _a, uint _b) public  pure   returns (uint){
+            return   _a+_b;
         }
 
 
