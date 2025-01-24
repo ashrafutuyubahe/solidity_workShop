@@ -156,11 +156,11 @@
 	},
 	"sources": {
 		"contracts/simpleCalculator.sol": {
-			"keccak256": "0x68920dd863feb4379ff4f856b8baadd4cca8e26b849d682ef7822a29f783fad3",
+			"keccak256": "0x4d041a9c81af5597a4e408d30aa05930b4a1588914b1522a58c2b884ddcbfbe0",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://2327cde762557ea379aece4341e64a6c867b99fdfa62282124b99a9329ced308",
-				"dweb:/ipfs/QmUWUp5pCjULQiojmU6ru8pAS1gqemH6t9eGVHUiiGMSrt"
+				"bzz-raw://82e2fec3b68705bb2a0b46ec662f8f647062ee41f78b632e79ea64d83edc89fa",
+				"dweb:/ipfs/QmdRLViRiuqKn76BP7VEqmFsTmh2LtDytJjo9FHRaEb4HA"
 			]
 		}
 	},

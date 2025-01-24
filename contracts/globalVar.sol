@@ -13,4 +13,5 @@ contract globalVar{
         admin=msg.sender;
     }
     
+    
 }
